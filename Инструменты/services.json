@@ -309,13 +309,13 @@
           "Sec-Fetch-Site": "same-origin",
           "User-Agent": "
       
-       },
-       "findclone_by": {
-        "url": "https://findclone.ru/register",
-        "data": "{'phone': '*phone*'}",
-        "response": 200,
-        "timeout": 60,
-        "GET": ""
+      },
+      "findclone_by": {
+       "url": "https://findclone.ru/register",
+       "data": "{'phone': '*phone*'}",
+       "response": 200,
+       "timeout": 60,
+       "GET": ""
       }
     }
   ]
