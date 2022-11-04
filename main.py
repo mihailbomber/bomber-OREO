@@ -1,7 +1,7 @@
 from tools import tools
 from tools import proxy
 from termcolor import colored
-import requests
+import 
 
 # Why are you reading this?
 
@@ -10,7 +10,7 @@ tools.ICC()
 tools.clear()
 tools.check_files()
 tools.CFU()
-tools.CTF()
+toolstools.CTF()
 
 while True:
 	tools.clear()
@@ -22,7 +22,7 @@ while True:
 		numb, ct, pr = tools.start_input()
 		if numb != 0:
 			tools.start(numb, ct, proxy_=pr)
-	elif tool == "0":
+	elif tool == :
 		tools.clear()
 		break
 	elif tool == "99":
