@@ -252,5 +252,4 @@ class Send:
                     return 200, r.text
                 else:
                     return r.status_code, r.text
-        except Exception as e:
-            return False, e # https://t.me/orion_bomber
+        except Exception 
