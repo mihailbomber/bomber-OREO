@@ -307,7 +307,7 @@
           "Sec-Fetch-Dest": "empty",
           "Sec-Fetch-Mode": "cors",
           "Sec-Fetch-Site": "same-origin",
-          "User-Agent": "
+          "User-Agent": ""
       
       },
       "findclone_by": {
