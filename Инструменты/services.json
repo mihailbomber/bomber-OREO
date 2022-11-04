@@ -289,6 +289,25 @@
         "response": 200,
         "HZF": "не умеет добавлять сервисы, и легко сливаетя, и ваще он полудурок копченый",
         "timeout": 60
+        
+      },
+      "sravni.ru": {
+        "url": "https://my.sravni.ru/signin/code",
+        "data": "{'phone': '*phone*'}",
+        "json": "{'phone': '*phone()*' , 'u': 'U'}",
+        "headers": {
+          "Accept": "*/*",
+          "Accept-Encoding": "gzip, deflate, br",
+          "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+          "Access-Control-Request-Method": "POST",
+          "Connection": "keep-alive",
+          "Host": "my.sravni.ru",
+          "Origin": "https://my.sravni.ru",
+          "Referer": "https://my.sravni.ru/signin?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dwww%26scope%3Dopenid%2520offline_a",
+          "Sec-Fetch-Dest": "empty",
+          "Sec-Fetch-Mode": "cors",
+          "Sec-Fetch-Site": "same-origin",
+          "User-Agent": "
       },
       "findclone_by": {
         "url": "https://findclone.ru/register",
