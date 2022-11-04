@@ -308,8 +308,9 @@
           "Sec-Fetch-Mode": "cors",
           "Sec-Fetch-Site": "same-origin",
           "User-Agent": "
-      },
-      "findclone_by": {
+      
+       },
+       "findclone_by": {
         "url": "https://findclone.ru/register",
         "data": "{'phone': '*phone*'}",
         "response": 200,
